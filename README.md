@@ -1,3 +1,3 @@
 # CodeForces
 
-A repository of my submissions to [CodeForces](https://codeforces.com/problemset).
+A repository of my completed [CodeForces](https://codeforces.com/problemset) practice problems.
